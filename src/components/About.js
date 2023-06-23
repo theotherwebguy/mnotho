@@ -192,7 +192,7 @@ and Drones
                       <span className="d-block font-weight-400 uppercase">
                         Content creator
                         <span className="separator" />
-                        <span className="font-weight-700">STUDIOZA (Temp)</span>
+                        <span className="font-weight-700">EAGLE EYE CLOTHING LINE (Temp)</span>
                       </span>
                     </div>
                     <div className="card-body">
