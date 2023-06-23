@@ -196,8 +196,8 @@ and Drones
                       </span>
                     </div>
                     <div className="card-body">
-                      <p>My responsibility is to plan and create content for
-brands that will convert social media followers into
+                      <p>My responsibility is to plan and create content for the 
+brand that will convert social media followers into
 customers. Using photoshop and premier pro
                       </p>
                     </div>
