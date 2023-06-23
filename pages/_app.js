@@ -49,7 +49,7 @@ function MyApp({ Component, pageProps }) {
           rel="stylesheet"
         />
         <link rel="stylesheet" type="text/css" href="css/styleswitcher.css" />
-        <title>Mnotho Ndlela - Personal Portfolio</title>
+        <title>Mnotho - Personal Portfolio</title>
       </Head>
       <NavState>
         <ColorState>
